@@ -1,0 +1,35 @@
+{
+  "coord": {
+    "lon":17.03,
+    "lat":46.11},
+  "weather":[{
+    "id":500,
+    "main":"Rain",
+    "description":"light rain",
+    "icon":"10n"}],
+  "base":"stations",
+  "main":{
+    "temp":35.35,
+    "pressure":1012.75,
+    "humidity":97,
+    "temp_min":35.35,
+    "temp_max":35.35,
+    "sea_level":1032.76,
+    "grnd_level":1012.75},
+    "wind":{
+      "speed":10.09,
+      "deg":14.5},
+    "rain":{
+      "3h":0.345},
+    "clouds":{
+      "all":92},
+    "dt":1546743153,
+    "sys":{
+      "message":0.0029,
+      "country":"HR",
+      "sunrise":1546756432,
+      "sunset":1546788097},
+      "id":3197728,
+      "name":"Kaposvár",
+      "cod":200
+}
